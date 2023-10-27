@@ -1,0 +1,393 @@
+.offer-shimmer-container {
+  width: 70vw;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  top: 5px;
+  height: 300px;
+  margin-top: 45px;
+}
+
+.offers-shimmer-scrollbox {
+  display: flex;
+  height: 400px;
+  position: relative;
+  /* background-color: red; */
+  top: 20px;
+  gap: 15px;
+  left: 15px;
+}
+
+.offer-shimmer-card {
+  width: 420px;
+  height: 230px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+}
+
+.imagelayout-shimmer-container {
+  width: 70vw;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  top: 5px;
+  height: 270px;
+  margin-top: 30px;
+}
+
+.shimm-para {
+  width: 225px;
+  height: 20px;
+  background-color: #f0f0f0;
+  position: relative;
+  right: 762px;
+  top: 7px;
+  border-radius: 40px;
+}
+
+.shimm-arrow {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  margin-bottom: 15px;
+}
+
+.shimm-circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+}
+
+.shimm-container {
+  width: 70vw;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin-top: 40px;
+}
+
+.shimm-heading {
+  width: 350px;
+  height: 20px;
+  background-color: #f0f0f0;
+  position: relative;
+  left: 222px;
+  border-radius: 40px;
+}
+.search {
+  display: flex;
+  align-items: center;
+  border: 1px solid #f0f0f0;
+  width: 220px;
+  margin-bottom: 15px;
+  height: 30px;
+}
+
+.search input {
+  outline: none;
+}
+
+.shimm {
+  position: relative;
+  left: 222px;
+  /* width: 20px; */
+  display: flex;
+  gap: 40px;
+  width: 70vw;
+}
+
+.shimm-btn {
+  /* width: 155px; */
+  height: 20px;
+  background-color: #f0f0f0;
+  position: relative;
+  margin-top: 30px;
+  left: 13px;
+  border-radius: 50px;
+}
+
+.shimm-searchbar {
+  width: 240px;
+}
+
+.shimm-btn1 {
+  width: 110px;
+}
+
+.shimm-btn2 {
+  width: 150px;
+}
+
+.shimm-card {
+  width: 250px;
+  padding: 12px;
+}
+
+.shimm-img {
+  width: 230px;
+  height: 230px;
+  border-radius: 10px;
+  border: #f0f0f0;
+  background-color: #f0f0f0;
+}
+
+.shimm-info1 {
+  width: 200px;
+  height: 10px;
+  border-radius: 10px;
+  margin-top: 8px;
+  background-color: #f0f0f0;
+}
+.shimm-info2 {
+  width: 150px;
+  height: 10px;
+  border-radius: 10px;
+  margin-top: 8px;
+  /* background-color: #f9f9f9; */
+  background-color: #f1f1f1;
+}
+.shimm-info3 {
+  width: 100px;
+  height: 10px;
+  border-radius: 10px;
+  margin-top: 8px;
+  background-color: #f9f9f9;
+}
+
+/* Collection-shimmer */
+
+.collection-container-shimm {
+  /* border: 1px solid black; */
+  width: 80vw;
+  /* height: 100vw; */
+  margin: auto;
+  font-family: "Lato", sans-serif;
+}
+
+.collection-header-shimm {
+  margin-top: 50px;
+}
+
+.collection-header-shimm h1 {
+  font-weight: 900;
+  font-size: 38px;
+  background-color: #f0f0f0;
+  height: 50px;
+  width: 250px;
+  border-radius: 50px;
+}
+
+.collection-header-shimm p {
+  color: gray;
+  font-weight: 900;
+  font-size: 38px;
+  background-color: #f0f0f0;
+  height: 15px;
+  width: 550px;
+  border-radius: 50px;
+  margin-top: 15px;
+}
+
+.collection-filter-shimm {
+  display: flex;
+  gap: 15px;
+  margin-top: 25px;
+}
+
+.collection-btn-shimm {
+  background-color: #f0f0f0;
+  width: 110px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.collection-main-shimm {
+  margin-top: 20px;
+}
+.collection-main-shimm h2 {
+  /* font-weight: 900; */
+  background-color: #f0f0f0;
+  width: 270px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.collection-res-shimm {
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 55px;
+  margin-top: 40px;
+}
+
+.collection-res a {
+  text-decoration: none;
+  color: black;
+}
+
+.res-card-coll {
+  width: 290px;
+  padding: 12px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.res-img-coll {
+  width: 260px;
+  height: 230px;
+  border-radius: 10px;
+}
+
+.res-info-coll {
+  font-weight: 400;
+}
+
+
+
+.coll-shimm-img {
+  background-color: #f0f0f0;
+  border: #f0f0f0;
+  border-radius: 10px;
+  width: 280px;
+  height: 230px;
+}
+
+.coll-shimm-info1 {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  width: 250px;
+  height: 10px;
+  margin-top: 8px;
+}
+
+.res-menu-head1-shimm {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  /* left: 700px; */
+  /* width: 100px; */
+  gap: 15px;
+}
+
+.icon-shimm {
+  background-color: #f0f0f0;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.res-menu-head2-shimm {
+  margin-top: 15px;
+}
+
+.resmenu-name-shimm {
+  width: 150px;
+  background-color: #f0f0f0;
+  height: 15px;
+  /* margin-top: 15px; */
+}
+.resmenu-cuisines-shimm {
+  width: 130px;
+  background-color: #f0f0f0;
+  height: 15px;
+  margin-top: 15px;
+}
+.resmenu-location-shimm {
+  width: 110px;
+  background-color: #f0f0f0;
+  height: 15px;
+  margin-top: 15px;
+}
+
+.res-menu-ratings-shimm {
+  /* background-color: red; */
+  /* border: 1px solid gray; */
+  background-color: #f0f0f0;
+  width: 65px;
+  min-height: 64px;
+  position: relative;
+  bottom: 55px;
+  left: 700px;
+  border-radius: 7px;
+  text-align: center;
+  max-height: 81px;
+}
+
+.resmenu-head2-hrline-shimm {
+  /* background-color: red; */
+  width: 70vw;
+  height: 1px;
+  border: 1px solid #f0f0f0;
+  margin-bottom: 15px;
+  position: relative;
+  bottom: 40px;
+}
+
+.price-shimm {
+  background-color: #f0f0f0;
+  height: 21px;
+  width: 150px;
+}
+
+.offer-box-shimm {
+  font-family: "Lato", sans-serif;
+  /* border: 1px solid gray; */
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  width: 200px;
+  /* line-height: 20px; */
+  min-height: 75px;
+  height: auto;
+}
+
+.all-res-menu-shimm {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.resinfo-shimm {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.non-veg-box-shimm {
+  width: 18px;
+  height: 16px;
+  background-color: #f0f0f0;
+}
+
+.resmenu-price-shimm {
+  width: 50px;
+  height: 16px;
+  background-color: #f0f0f0;
+}
+
+.resmenu-desc-shimm {
+  width: 350px;
+  height: 16px;
+  background-color: #f0f0f0;
+}
+
+.resmenu-img-shimm{
+  width: 120px;
+  height: 120px;
+  background-color: #f0f0f0;
+}
+
+.resmenu-hrline-shimm {
+  /* position: absolute; */
+  background-color: #f0f0f0;
+  width: 100%;
+  height: 2px;
+  margin-top: 25px;
+
+}
