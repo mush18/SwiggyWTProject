@@ -19,7 +19,6 @@ import OffersShimm3 from "./src/components/OfffersShimm3";
 import OfferRoute from "./src/components/offerRoute";
 import RestaurantMenu from "./src/components/RestaurantMenu";
 import User from "./src/components/User";
-import HelpClass from "./src/components/HelpClass";
 import CollectionPage2 from "./src/components/CollectionPage2";
 import CollectionPageShimmer from "./src/components/Shimmers/CollectionPageShimmer";
 import ResMenuShimmer from "./src/components/Shimmers/ResMenuShimmer";
@@ -76,8 +75,7 @@ const appRouter = createBrowserRouter([
       },
       {
         path: "/help",
-        // element: <Help />,
-        element: <HelpClass />,
+        element: <Help />,
       },
       {
         path: "/cart",

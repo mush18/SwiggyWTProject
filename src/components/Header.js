@@ -44,12 +44,6 @@ const Header = () => {
               Online Status : {onlineStatus ? "🟩":"🔴"}
             </li>
             <li>
-              <Link to="/Search">
-                <FontAwesomeIcon icon={faMagnifyingGlass} />
-                Search
-              </Link>
-            </li>
-            <li>
               <Link to="/Offer">
                 <FontAwesomeIcon icon={faPercent} />
                 Offers
